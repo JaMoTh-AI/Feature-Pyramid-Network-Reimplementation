@@ -1,7 +1,7 @@
 {
     "bbox": {
-        "AP": 0.11185957584150842,
-        "AP-airplane": 0.39603960396039595,
+        "AP": 7.072135785007074e-06,
+        "AP-airplane": 0.0,
         "AP-apple": 0.0,
         "AP-backpack": 0.0,
         "AP-banana": 0.0,
@@ -28,7 +28,7 @@
         "AP-couch": 0.0,
         "AP-cow": 0.0,
         "AP-cup": 0.0,
-        "AP-dining table": 3.6293317853429383,
+        "AP-dining table": 0.0,
         "AP-dog": 0.0,
         "AP-donut": 0.0,
         "AP-elephant": 0.0,
@@ -50,8 +50,8 @@
         "AP-orange": 0.0,
         "AP-oven": 0.0,
         "AP-parking meter": 0.0,
-        "AP-person": 1.4635163808954015,
-        "AP-pizza": 3.4598782971219375,
+        "AP-person": 0.0005657708628005659,
+        "AP-pizza": 0.0,
         "AP-potted plant": 0.0,
         "AP-refrigerator": 0.0,
         "AP-remote": 0.0,
@@ -81,10 +81,10 @@
         "AP-vase": 0.0,
         "AP-wine glass": 0.0,
         "AP-zebra": 0.0,
-        "AP50": 0.2678734927557171,
-        "AP75": 0.08107385940005003,
-        "APl": 0.22102265750588782,
-        "APm": 0.018426929398928055,
-        "APs": 0.0
+        "AP50": 1.4144271570014146e-05,
+        "AP75": 0.0,
+        "APl": 0.0,
+        "APm": 1.3812765205091938e-06,
+        "APs": 7.4287140598813784e-06
     }
 }
