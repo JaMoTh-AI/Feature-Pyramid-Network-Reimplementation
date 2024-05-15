@@ -128,6 +128,7 @@ In total, we trained our models for over 130 hours!
 
 ## Results and Analysis
 ### Reimplementation Results
+Sample visualizations and training loss graphs for each model can be found in the `model_results` directory.
 #### Full Dataset
 | Model Description                                     | Backbone       | AP@0.5 | AP     | AP_s    | AP_m    | AP_l    | LR      | Iterations |
 |-------------------------------------------------------|----------------|--------|--------|---------|---------|---------|----------|------------|
