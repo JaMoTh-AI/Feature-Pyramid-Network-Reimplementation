@@ -136,7 +136,7 @@ Sample visualizations and training loss graphs for each model can be found in th
 | Built-in Detectron2 Model                             | ResNet50       | 54.1   | 36.7   | 19.1    | 40.2    | 49.4    | 0.02     | 270000     |
 | Custom Bottom Up Backbone                             | Custom         | 0.0    | 0.0    | 0.0     | 0.0     | 0.0     | 0.0002   | 260000     |
 | ResNet34 Backbone                                     | ResNet34       | 0.0    | 0.0    | 0.0     | 0.0     | 0.0     | 0.0002   | 70000      |
-| ResNet34 Backbone w/ Pretrained Weights and Pooling Layer | ResNet34   | 0.19   | 0.08   | 0.0     | 0.01    | 0.15    | 0.02     | 60000      |
+| ResNet34 Backbone w/ Pretrained Weights and Pooling Layer | ResNet34   | 0.19   | 0.08   | 0.0     | 0.01    | 0.15    | 0.02     | 30000      |
 
 #### Small Dataset
 | Model Description                                      | Backbone       | AP@0.5 | AP   | AP_s | AP_m | AP_l | LR   | Iterations |
