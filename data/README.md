@@ -25,4 +25,4 @@ unzip annotations_trainval2017.zip
 ```
 
 ## Small Image Dataset
-In the process of debugging our model, we tried various approaches and, in particular, overfitting on a small portion of the full dataset. The set of such images(8 of them) can be seen in the `data\small_train2017` directory. This is also the set of untampered images we used to make predictions for each models for the sake of comparison. You can access the bounding box predictions on these images in the `model_results` directory, where we run such predictions for each model including the non overfitting ones.
+In the process of debugging our model, we tried various approaches and, in particular, overfitting on a small portion of the full dataset. The set of such images(8 of them) can be seen in the `data\small_train2017` directory. This is also the set of untampered images we used to make predictions for each models for the sake of comparison. You can access the bounding box predictions on these images in the `results` directory, where we run such predictions for each model including the non overfitting ones.
